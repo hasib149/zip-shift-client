@@ -12,7 +12,7 @@ const OurService = () => {
           — we deliver on time, every time.
         </p>
         <div className=" pt-11 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 justify-center mx-auto p-16">
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
@@ -26,7 +26,7 @@ const OurService = () => {
               every time.
             </p>
           </div>
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
@@ -40,7 +40,7 @@ const OurService = () => {
               every time.
             </p>
           </div>
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
@@ -54,7 +54,7 @@ const OurService = () => {
               every time.
             </p>
           </div>
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
@@ -68,7 +68,7 @@ const OurService = () => {
               every time.
             </p>
           </div>
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
@@ -82,7 +82,7 @@ const OurService = () => {
               every time.
             </p>
           </div>
-          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center">
+          <div className="max-w-md bg-white rounded-2xl shadow-md p-3 hover:shadow-xl transition-all duration-300 flex flex-col space-y-2 mx-auto text-center hover:bg-primary">
             <img
               src={live}
               alt="van image"
